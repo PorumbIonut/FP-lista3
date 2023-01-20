@@ -1,0 +1,15 @@
+/Users/john/Documents/GitHub/FP-lista3/lista3/lista3/bin/Debug/net7.0/lista3
+/Users/john/Documents/GitHub/FP-lista3/lista3/lista3/bin/Debug/net7.0/lista3.deps.json
+/Users/john/Documents/GitHub/FP-lista3/lista3/lista3/bin/Debug/net7.0/lista3.runtimeconfig.json
+/Users/john/Documents/GitHub/FP-lista3/lista3/lista3/bin/Debug/net7.0/lista3.dll
+/Users/john/Documents/GitHub/FP-lista3/lista3/lista3/bin/Debug/net7.0/lista3.pdb
+/Users/john/Documents/GitHub/FP-lista3/lista3/lista3/obj/Debug/net7.0/lista3.csproj.AssemblyReference.cache
+/Users/john/Documents/GitHub/FP-lista3/lista3/lista3/obj/Debug/net7.0/lista3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/john/Documents/GitHub/FP-lista3/lista3/lista3/obj/Debug/net7.0/lista3.AssemblyInfoInputs.cache
+/Users/john/Documents/GitHub/FP-lista3/lista3/lista3/obj/Debug/net7.0/lista3.AssemblyInfo.cs
+/Users/john/Documents/GitHub/FP-lista3/lista3/lista3/obj/Debug/net7.0/lista3.csproj.CoreCompileInputs.cache
+/Users/john/Documents/GitHub/FP-lista3/lista3/lista3/obj/Debug/net7.0/lista3.dll
+/Users/john/Documents/GitHub/FP-lista3/lista3/lista3/obj/Debug/net7.0/refint/lista3.dll
+/Users/john/Documents/GitHub/FP-lista3/lista3/lista3/obj/Debug/net7.0/lista3.pdb
+/Users/john/Documents/GitHub/FP-lista3/lista3/lista3/obj/Debug/net7.0/lista3.genruntimeconfig.cache
+/Users/john/Documents/GitHub/FP-lista3/lista3/lista3/obj/Debug/net7.0/ref/lista3.dll
